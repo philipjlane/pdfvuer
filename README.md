@@ -1,6 +1,6 @@
 # Pdfvuer
 
-> A PDF viewer for Vue using Mozilla's PDF.js
+> A PDF viewer for Vue using Mozilla's PDF.js. A Fork to remove an error when not using the text layer.
 
 [![npm version](https://badge.fury.io/js/pdfvuer.svg)](https://badge.fury.io/js/pdfvuer)
 
